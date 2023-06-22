@@ -1,18 +1,20 @@
-SpendSavvy
+#SpendSavvy:
+
 SpendSavvy is an expense management web application developed using PHP and MySQL. It provides a comprehensive Expense Management System with features like admin and user login, category management, user management, expense management, reports, and a dashboard for an efficient expense tracking experience.
 
-Features
-Admin and User Login: The application supports secure login functionality for both administrators and regular users. Administrators have additional privileges and access to manage categories, users, and expenses.
+Features:
 
-Categories Add/Update/Delete: The system allows administrators to create, update, and delete expense categories. This feature helps in organizing and classifying expenses for better tracking and analysis.
+1.Admin and User Login:The application supports secure login functionality for both administrators and regular users. Administrators have additional privileges and access to manage categories, users, and expenses.
 
-User Add/Update/Delete: Administrators can manage user accounts by adding new users, updating user details, and deleting user accounts. This feature enables administrators to control access and permissions for different users of the application.
+2.Categories Add/Update/Delete: The system allows administrators to create, update, and delete expense categories. This feature helps in organizing and classifying expenses for better tracking and analysis.
 
-Expense Add/Update/Delete: Users can record their expenses by adding new entries, updating existing expenses, and deleting unnecessary entries. This feature ensures accurate and up-to-date expense tracking.
+3.User Add/Update/Delete: Administrators can manage user accounts by adding new users, updating user details, and deleting user accounts. This feature enables administrators to control access and permissions for different users of the application.
 
-Reports: SpendSavvy offers comprehensive reports that summarize expenses based on various criteria, such as categories, users, date ranges, and more. These reports provide valuable insights into spending patterns, helping users and administrators make informed financial decisions.
+4.Expense Add/Update/Delete: Users can record their expenses by adding new entries, updating existing expenses, and deleting unnecessary entries. This feature ensures accurate and up-to-date expense tracking.
 
-Dashboard: The application provides a user-friendly and informative dashboard that presents key metrics and visual representations of expense data. The dashboard offers an at-a-glance overview of spending trends, top expense categories, and other relevant statistics.
+5.Reports: SpendSavvy offers comprehensive reports that summarize expenses based on various criteria, such as categories, users, date ranges, and more. These reports provide valuable insights into spending patterns, helping users and administrators make informed financial decisions.
+
+6.Dashboard: The application provides a user-friendly and informative dashboard that presents key metrics and visual representations of expense data. The dashboard offers an at-a-glance overview of spending trends, top expense categories, and other relevant statistics.
 
 Installation
 To install SpendSavvy, follow these steps:
@@ -44,5 +46,6 @@ Once logged in, SpendSavvy provides an intuitive interface for managing expenses
 
 Feel free to explore the various features and functionalities of SpendSavvy to track, analyze, and manage your expenses effectively.
 
-Contributing
+Contributing:
+
 Contributions to SpendSavvy are welcome! If you find any bugs or want to suggest new features, please submit an issue or a pull request to the repository.
